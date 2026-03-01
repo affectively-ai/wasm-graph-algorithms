@@ -1,6 +1,6 @@
 {
   "name": "@affectively/wasm-graph-algorithms",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "High-performance WebAssembly graph algorithms - cycle detection, DAG operations, path finding, topological sort.",
   "main": "pkg/wasm_graph_algorithms.js",
   "types": "pkg/wasm_graph_algorithms.d.ts",
@@ -27,7 +27,7 @@
     "rust"
   ],
   "author": "AFFECTIVELY <opensource@affectively.ai>",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/affectively-ai/wasm-graph-algorithms.git"
